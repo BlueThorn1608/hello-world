@@ -1,5 +1,5 @@
 # hello-world
-Just a trial reposiory
+Just a trial repository
 
 Hello People !
 
